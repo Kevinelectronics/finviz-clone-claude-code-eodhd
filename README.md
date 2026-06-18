@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 
-> Add your own screenshot at `public/screenshot.png` after cloning.
+<img width="1314" height="928" alt="image" src="https://github.com/user-attachments/assets/76ead906-6d35-4a10-b9b0-be6636ee45f1" />
 
 ---
 
