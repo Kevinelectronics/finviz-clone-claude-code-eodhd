@@ -35,7 +35,7 @@ cd finviz-clone-claude-code-eodhd
 
 ### 2. Get your EODHD API Key (Free tier available)
 
-This project is powered by **[EODHD](https://eodhd.com/?ref=finviz-clone)** — one of the most comprehensive financial data APIs available, covering:
+This project is powered by **[EODHD](https://eodhd.com/?via=kmg&ref1=Meneses&utm_source=medium&utm_medium=post&utm_campaign=finviz-clone&utm_content=Meneses)** — one of the most comprehensive financial data APIs available, covering:
 
 - ✅ Real-time & historical stock prices (70+ exchanges)
 - ✅ Fundamentals: income statements, balance sheets, cash flows
@@ -43,7 +43,7 @@ This project is powered by **[EODHD](https://eodhd.com/?ref=finviz-clone)** — 
 - ✅ Stock screener with 50+ filter fields
 - ✅ Sector ETF data, insider transactions, analyst ratings
 
-👉 **[Sign up for a free EODHD account here](https://eodhd.com/?ref=finviz-clone)**
+👉 **[Sign up for a free EODHD account here](https://eodhd.com/?via=kmg&ref1=Meneses&utm_source=medium&utm_medium=post&utm_campaign=finviz-clone&utm_content=Meneses)**
 
 ### 3. Configure your environment
 
@@ -133,7 +133,7 @@ EODHD (End of Day Historical Data) is the financial data backbone of this projec
 | All-World | 100,000 | Real-time, fundamentals, screener, intraday |
 | All-In-One | Unlimited | Everything + WebSocket, options, macro data |
 
-👉 **[Get your EODHD API key →](https://eodhd.com/?ref=finviz-clone)**
+👉 **[Get your EODHD API key →](https://eodhd.com/?via=kmg&ref1=Meneses&utm_source=medium&utm_medium=post&utm_campaign=finviz-clone&utm_content=Meneses)**
 
 ---
 
