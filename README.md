@@ -2,8 +2,7 @@
 
 > A full-featured **stock market dashboard** inspired by Finviz, built entirely with **Claude Code** and powered by real-time financial data from the **EODHD API**. Features a stock screener, live market indices, sector heatmap, and interactive company detail modals — all in a dark, professional UI.
 
-![FinView Dashboard](./public/screenshot.png)
-
+<img width="1320" height="915" alt="image" src="https://github.com/user-attachments/assets/2e59ac60-335f-4eec-868d-7492554d7088" />
 ---
 
 ## 🚀 Live Features
@@ -21,11 +20,7 @@
 
 ## 📸 Screenshots
 
-<img width="1320" height="915" alt="image" src="https://github.com/user-attachments/assets/2e59ac60-335f-4eec-868d-7492554d7088" />
-
-
 <img width="1314" height="928" alt="image" src="https://github.com/user-attachments/assets/76ead906-6d35-4a10-b9b0-be6636ee45f1" />
-
 
 ---
 
